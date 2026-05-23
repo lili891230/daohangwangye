@@ -1,0 +1,11 @@
+﻿name = "nav-site"
+main = "src/worker.js"
+compatibility_date = "2024-09-01"
+
+kv_namespaces = [
+  { binding = "NAV_KV", id = "39d3bad3304a4a22be97d83a56909384" }
+]
+
+[vars]
+ADMIN_PASSWORD = "admin"
+TOKEN_SECRET = "llxx891230navsite2024secret"
